@@ -10,7 +10,7 @@
 `index.html` をブラウザで開くだけ。入力内容はお使いのブラウザ内に自動保存されます。
 
 ## 公開URL
-GitHub Pages で公開しています → （公開後にURLをここに記載）
+https://masaya19960301-sudo.github.io/shift-table-maker/
 
 ## データについて
 データはブラウザのローカル（localStorage）に保存されます。履歴・サイトデータを消すと入力も消えます。別端末とは共有されません。
